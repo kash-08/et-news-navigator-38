@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-**ET News Navigator** is an AI-powered feature designed to revolutionize how users interact with financial and business news on the Economic Times platform.
+**NewsLoom** is an AI-powered feature designed to revolutionize how users interact with financial and business news on the Economic Times platform.
 
 Instead of reading multiple scattered articles, the system intelligently **aggregates, analyzes, and presents news as structured intelligence briefings** — helping users grasp complex topics instantly.
 
@@ -73,16 +73,16 @@ We built an **AI-driven News Intelligence Engine** that:
 | Data Source  | News APIs |
 
 ---
-et-news-navigator/
+et-news-navigator/<br>
+│<br>
+├── api/<br>
+│ └── fetch-news.js # Serverless function for fetching news<br>
 │
-├── api/
-│ └── fetch-news.js # Serverless function for fetching news
-│
-├── components/ # UI Components
-├── pages/ # Application routes
-├── styles/ # Styling
-├── utils/ # Helper functions
-└── README.md
+├── components/ # UI Components<br>
+├── pages/ # Application routes<br>
+├── styles/ # Styling<br>
+├── utils/ # Helper functions<br>
+└── README.md<br>
 
 ---
 
