@@ -122,13 +122,14 @@ npm install
 
 # Install dependencies
 npm install
-
+```
 ## ⚡Delopyment
 # Install Vercel CLI (if not already installed)
 npm install -g vercel
 
 # Deploy the project
 vercel
+
 ## 🧠 How It Works
 
 1. **Topic Selection**  
@@ -152,7 +153,6 @@ vercel
 5. **Interactive Display**  
    The frontend presents the data in a clean, dashboard-style UI for easy understanding and exploration.
 
----
 
 ## 🎨 UI Highlights
 
