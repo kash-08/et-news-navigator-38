@@ -105,8 +105,73 @@ git clone https://github.com/kash-08/et-news-navigator-38.git
 # Navigate to project
 cd et-news-navigator-38
 
+## ▶️ Run Locally
+
+Follow these steps to run the project on your local machine:
+
+```bash
+# Clone the repository
+git clone https://github.com/kash-08/et-news-navigator-38.git
+
+# Navigate to the project directory
+cd et-news-navigator-38
+
 # Install dependencies
 npm install
+
+# Install dependencies
+npm install
+
+## ⚡Delopyment
+# Install Vercel CLI (if not already installed)
+npm install -g vercel
+
+# Deploy the project
+vercel
+## 🧠 How It Works
+
+1. **Topic Selection**  
+   User selects or searches for a topic (e.g., Budget, Startup Funding, Market Trends).
+
+2. **News Aggregation**  
+   The backend fetches multiple related news articles using external APIs.
+
+3. **AI Processing**  
+   The collected articles are processed using AI to extract:
+   - Key insights  
+   - Important events  
+   - Trends and patterns  
+
+4. **Data Structuring**  
+   The extracted information is organized into:
+   - Concise summary  
+   - Timeline of events  
+   - Highlighted key points  
+
+5. **Interactive Display**  
+   The frontend presents the data in a clean, dashboard-style UI for easy understanding and exploration.
+
+---
+
+## 🎨 UI Highlights
+
+- ✨ Clean and modern user interface  
+- 📊 Dashboard-style layout for structured insights  
+- 🧩 Card-based design for news articles  
+- ⚡ Smooth navigation and fast performance  
+- 🎯 Focus on clarity, readability, and user experience  
+- 📱 Responsive design for multiple screen sizes  
+
+---
+
+## 📈 Future Enhancements
+
+- 🔮 Predictive insights using machine learning  
+- 🗣️ Voice-based news briefing system  
+- 📊 Personalized dashboards based on user interests  
+- 🌍 Multi-language support for global accessibility  
+- 📱 Dedicated mobile application  
+- 🧠 Advanced sentiment analysis for market insights  
 
 
 ## 📂 Project Structure
