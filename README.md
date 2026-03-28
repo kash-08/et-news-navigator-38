@@ -173,6 +173,3 @@ vercel
 - 🌍 Multi-language support for global accessibility  
 - 📱 Dedicated mobile application  
 - 🧠 Advanced sentiment analysis for market insights  
-
-
-## 📂 Project Structure
