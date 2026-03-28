@@ -104,6 +104,7 @@ git clone https://github.com/kash-08/et-news-navigator-38.git
 
 # Navigate to project
 cd et-news-navigator-38
+```
 
 ## ▶️ Run Locally
 
