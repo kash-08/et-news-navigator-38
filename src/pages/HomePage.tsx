@@ -32,7 +32,7 @@ export default function HomePage() {
       {/* Masthead */}
       <header className="px-6 pt-8 pb-0 max-w-5xl mx-auto">
         <h1 className="font-headline text-3xl md:text-4xl font-extrabold tracking-tight text-foreground">
-          NEWS NAVIGATOR
+          NEWSLOOM
         </h1>
         <div className="h-[3px] bg-primary mt-2 mb-1" />
         <p className="font-mono text-xs text-muted-foreground tracking-wide">
